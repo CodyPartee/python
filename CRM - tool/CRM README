@@ -1,0 +1,2 @@
+The CRM tool is currently hardcoded to need an excel file named bgit.xlsx to be located in the same folder. 
+Data starts on row 4 leaving 3 rows to make a stylish header for the spreadsheet. Openpyxl is a dependency for the program to run "pip install openpyxl"
